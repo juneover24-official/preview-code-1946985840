@@ -1,13 +1,19 @@
 {
   "qq_number": "1946985840",
   "group_number": "418971138",
-  "updated_at": "2026-04-23T15:52:37.695266",
+  "updated_at": "2026-05-29T08:32:28+00:00",
   "skins": [
     {
       "name": "菟の简约韩风键盘",
       "file": "菟の简约韩风.bdi",
       "thumb": "菟の简约韩风.bdi_py_26_light_thumb.png",
       "full": "菟の简约韩风.bdi_py_26_light.png"
+    },
+    {
+      "name": "菟の季雨天",
+      "file": "菟の季雨天.bdi",
+      "thumb": "菟の季雨天.bdi_py_26_light_thumb.png",
+      "full": "菟の季雨天.bdi_py_26_light_thumb.png"
     }
   ]
 }
